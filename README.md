@@ -13,6 +13,10 @@ Este projeto é um sistema desenvolvido em C para registro e controle de funcion
 7. **Imprimir Funcionários com Salário Superior a $75,000**: Lista funcionários que ganham mais que $75,000.  
 8. **Eliminar Funcionário**: Remove um funcionário a partir do número do NIF.  
 
+## Tela Inicial 
+![2](https://github.com/user-attachments/assets/0b6c310e-4111-40c2-9406-a11e9345d37c)
+
+
 ## Requisitos  
 - Um compilador C (como gcc).  
 - Sistema operacional compatível (Windows, Linux ou macOS).  
